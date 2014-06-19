@@ -1,0 +1,21 @@
+* «Introduction to Databases» and «Complete Book» [10%]
+  - [X] Semistructured data model (XML, XPath, XQuery, DTD, Schema, JSON)
+  - [X] Relation model of Data (Relation databases, Relation algebra)
+  - [ ] Design theory for relation database (Relation design theory)
+  - [ ] High-level DB Models (UML)
+  - [ ] Algebraic and logical query language (доделать задания к Relation model of Data)
+  - [ ] SQL (SQL, Transactions)
+  - [ ] Constraints and triggers; Views and indexes (Constraints and triggers, Indexes, Views)
+  - [ ] Advanced topics in RDB (Authorization, Recursion in SQL, OLAP)
+  - [ ] SQL in a server environment
+  - [ ] Secondary storage management
+  - [ ] Index structures
+  - [ ] Query execution
+  - [ ] Query compiler
+  - [ ] Copy with system failure
+  - [ ] Concurrency control
+  - [ ] More about transactions
+  - [ ] Parallel and distributed databases (NoSQL)
+  - [ ] Information integration
+  - [ ] Data mining
+  - [ ] Database systems and the Internet
